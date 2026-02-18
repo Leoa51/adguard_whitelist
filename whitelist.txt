@@ -1,0 +1,3 @@
+audio-ak-spotify-com.akamaized.net
+audio-ake.spotify.com.edgesuite.net
+# audio-ak.spotifycdn.com
