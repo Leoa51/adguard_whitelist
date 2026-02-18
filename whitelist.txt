@@ -1,3 +1,9 @@
 audio-ak-spotify-com.akamaized.net
 audio-ake.spotify.com.edgesuite.net
 # audio-ak.spotifycdn.com
+login5.spotify.com
+audio4-fa.scdn.co
+audio-ak-spotify-com.akamaized.net
+support.spotify.com
+spclient.wg.spotify.com
+support.spotify.com
