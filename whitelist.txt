@@ -7,3 +7,4 @@ audio-ak-spotify-com.akamaized.net
 support.spotify.com
 spclient.wg.spotify.com
 support.spotify.com
+open.spotify.com
